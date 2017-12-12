@@ -2,5 +2,7 @@
   "name": "bmi_calculator",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
