@@ -1,3 +1,25 @@
 page-calculator {
 
+  $control-height: 40px;
+
+  .header {
+    height: $control-height;
+}
+
+  .sub-header {
+    height: $control-height;
+}
+
+  $colors: (
+  primary:    #ff47c1,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222,
+  twitter: (
+    base: #55acee,
+    contrast: #fff
+  )
+);
+
 }
